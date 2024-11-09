@@ -1,4 +1,4 @@
 {
-    "nuevaActualizacionDisponible": true,
-    "urlActualizacion": "https://www.tusitioweb.com/actualizacion"
+    "nuevaActualizacionDisponible": false,
+    "urlActualizacion": "https://github.com/OceanandWild/NVA-Animal-AI"
 }
