@@ -1,3 +1,4 @@
 {
-  "version": "1.0",
+    "nuevaActualizacionDisponible": true,
+    "urlActualizacion": "https://www.tusitioweb.com/actualizacion"
 }
